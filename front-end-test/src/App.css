@@ -1,0 +1,57 @@
+.breadcrumb {
+    font-size: 16px;
+}
+
+.bread {
+    font-weight: bolder;
+    color: black;
+}
+
+.main_head {
+    font-size: 60px;
+}
+
+.main_para {
+    font-size: 20px;
+}
+
+.main_part {
+    background-color: rgb(238, 237, 237);
+    height: 22px;
+    font-size: 14px;
+    border-radius: 2px;
+    text-align: center;
+    color: rgb(158, 158, 158);
+}
+
+.main_head2 {
+    font-size: 35px;
+}
+
+.last_para {
+    font-size: 20px;
+}
+
+.last_para2 {
+    font-size: 14px;
+}
+
+.link {
+    text-decoration: underline;
+    color: blue;
+}
+
+.main_part3 {
+    background-image: url("https://i.ibb.co/nn3GrXh/istockphoto-1159331127-612x612.jpg");
+    height: 28px;
+    font-size: 18px;
+    border-radius: 2px;
+    text-align: center;
+    box-shadow: 4px 5px #e0e0e0;
+}
+
+@media only screen and (min-width: 500px) {
+    .main_part3 {
+        font-size: 16px;
+    }
+}

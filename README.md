@@ -30,7 +30,11 @@ As most of our products are in VueJs so we will highly recommend you use VueJs f
 5. Add "How to run instruction" in the area below
 
 ## How to run?
-To be added by the candidate
+Step1: Need to run command into the folder "yarn add bootstrap react-bootstrap"
+Step2: Need to run command into the folder "yarn add react-icons"
+Step3: When this is done, run "yarn start" it will run the project.
+
+I have integrated the API with my react project.
 
 ## Deadline
 Please complete it within 3 days of assignment. 
